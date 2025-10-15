@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", sans-serif; ;
+}
+.container{
+    width: 100%;
+   
+}
+
+.content{
+    width: 100%;
+    height: 700px;
+    background-color: lab(88.9% 0.34 0.11 / 0.917);
+    display: flex;
+}
+.left-content{
+    width: 50%;
+    margin-left: 200px;
+    
+}
+img{
+    margin-top:  200px; 
+    width: 330px;
+}
+.main{
+     margin-top:  -20px; 
+    padding-left: 35px;
+    font-size :29px;
+}
+
+.str-form{
+    border-radius: 10px;
+    background-color:white;
+    width: 380px;
+    height: 350px;
+   margin-top: 150px;
+   margin-left: -200px;
+}
+input{
+    width: 85%;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 13px;
+    border-radius: 6px;
+    font-size: 16px;
+    border-width: 1px;
+}
+#login{ padding: 14px;
+    width: 92%;
+    margin-left: 16px;
+    margin-top: 15px;
+    text-decoration-color: #fff;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 18px;
+    background-color: #1877F2;
+    text-align: center;
+    font-weight: 200;
+}
+
+.forgot{
+    color:#1877F2;
+    text-align: center;
+}
+#line{
+    width:90%;
+
+}
+#new-account{
+    text-align-last: center;
+    width: 50%;
+    color:#fff;
+    background-color:#2fab2f ;
+    margin-left:25% ;
+}
+#creat{
+    margin-top: 58px;
+    color: black;
+    font-weight: bolder;
+    
+}
+#page{
+    margin-top: 58px;
+    font-size: small;
+    text-align: center;
+}
+a{
+    
+   text-decoration-line:none;
+   
+}
+.text{
+    
+    color: black;
+    font-size: small;
+  display:-moz-grid-line;
+  margin-left: 5px;
+ 
+  
+}
+ul{
+    list-style: none;
+  
+  width: max-content;
+
+   
+}
+.footer{
+    
+    text-decoration: none;
+    
+   padding-left: 200px;
+    width: 100%;
+}
+.list{
+    
+     display:inline;
+}
+#row{
+    margin-left:47px;
+}
+#margin{
+        padding-left: 37px;
+}
